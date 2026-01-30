@@ -1,0 +1,8 @@
+[
+  { "item_name": "Crispy Spring Rolls", "price": 8.50, "in_stock": true, "section_id": 1 },
+  { "item_name": "Street Corn Dip", "price": 9.25, "in_stock": true, "section_id": 1 },
+  { "item_name": "Grilled Salmon Bowl", "price": 18.75, "in_stock": true, "section_id": 2 },
+  { "item_name": "Chicken Teriyaki Plate", "price": 16.50, "in_stock": true, "section_id": 2 },
+  { "item_name": "Churro Sundae", "price": 7.00, "in_stock": true, "section_id": 3 },
+  { "item_name": "Iced Matcha Latte", "price": 5.75, "in_stock": true, "section_id": 4 }
+]
